@@ -1,0 +1,262 @@
+.omg{
+    text-align:center;
+    font-family:"Tahoma";
+    color :#ffa5b0;
+    margin-left: 450px;
+    padding-top: 60px;
+
+
+}
+
+.aya{
+    justify-content: space-around;
+}
+.film{
+   
+    font-family:"Tahoma";
+    color :#be5683;
+    margin-left: 50px;
+
+    
+}
+.faza{
+    display: flex;
+}
+body {
+    background-color: #e0dede;
+	                               
+    
+}
+.poop{
+    left: 600px;
+}
+.haj{
+    
+    background-image: url("./images/chapeau.jpg");
+    background-size:cover;
+    position:relative;
+    color: white;
+	               
+
+}
+.vertical-menu {
+    
+        width: 200px;
+        height: 150px;
+        overflow-y: auto;
+         transition:0.5s;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:15px;
+    padding-right:15px;
+    margin:10px;
+    margin-left: 600px;
+    margin-right: 500px;
+    
+      
+  }
+.yupi{
+    background-image: url("./images/fulo.webp");
+    background-size:cover;
+    position:relative;
+    
+
+}
+  
+  .vertical-menu a {
+    background-image: url("./images/aya.jpg"); 
+    color:#AF65CB; 
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: white; 
+  }
+  .baw{
+    
+    font-size:20px;
+    margin-left: 50px;
+    margin-right: 300px;
+  }
+  
+  .vertical-menu a.active {
+    background-color: #4CAF50; 
+    color: :#AF65CB;
+  }
+  .vertical-menu {
+    width: 200px;
+    height: 150px;
+    overflow-y: auto;
+  }
+.piw{
+    color:#99b898;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    scroll-padding-top: 20px;
+}
+.piw2{
+    color: #6a197d;
+    padding-right: 20px;
+
+}
+.baaa{
+    background-image: url("./images/hafhaf.jpg");
+    background-size:cover;
+    position:relative;
+    margin-right: 1000px;
+    color:white;
+
+}
+.oppppa{
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:10px;
+    padding-right:15px;
+    margin:10px;
+    margin-left: 10px;
+    margin-right: 500px;
+    
+    width: 600px;
+    
+
+}
+.bonbon{
+    display: flex;
+    background-image:url("./images/pret.jpg");
+   
+ 
+
+
+}
+
+  }
+.salima{
+    margin-left: 300px;
+    color:#be5683;
+    
+   
+  }
+.milka{
+    background-color: white;
+    margin-left: 350px;
+    margin-right: 600px;
+    margin-top: 30px;
+    
+}
+.yassmine{
+    flex-direction:row;
+ 
+}
+.khouini{
+
+}
+.nature{
+    margin-right: 100px;
+}
+.no{
+    margin-left: 100px;
+}
+.miao{
+    border: 1px  white;
+    margin-left: 300px;
+    color: white;
+    background-color: black;
+}
+
+   
+    
+}
+.ff{
+    color:orange;
+
+
+}
+
+.icon{
+    color: #6ebfb5;
+}
+
+.found{
+    line-height: 20px;
+}
+.bb{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.horse{
+    display: inline;
+    float: left;
+    display: block;
+  padding: 8px;
+  background-color:white;
+    
+   
+  list-style-type: none;
+}
+li a:hover {
+    background-color: gray;
+    color :#ffa5b0;
+    color: ;
+  }
+.madame{
+    margin-left:200px;
+    color: #6ebfb5;
+}
+.mariem{
+    display: flex;
+}
+.huh{
+    font-size:20px;
+    margin-left: 50px;
+    margin-right: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.sugar{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    font-size: 20px;
+    margin-right: 700px;
+}
+.huhh{
+    font-size:20px;
+    margin-right: 100px;
+    color:#AF65CB;
+ 
+}
+.tomb{
+
+    
+    display:inline;
+    justify-content:center;
+    align-items:center;
+    
+  
+}
+
+.few{
+   
+        border-radius: 8px;
+       width: 200px;
+      
+}
+
+
+.blablo{
+    color:#be5683;
+   padding-left: 200px;
+ 
+    
+}
+.froggy{
+    padding-left: 400px;
+}
+.wess{
+    display: flex;
+   
+}
+
